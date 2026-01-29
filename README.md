@@ -1,5 +1,5 @@
 # Music-Camera-Tracker
-[YouTube Demo](https://youtu.be/j9A5S8RB8Es?si=BqLNssocx58mbWDR) \
+[YouTube Demo](https://youtu.be/j9A5S8RB8Es?si=BqLNssocx58mbWDR) 
 ## Features
 
 - **Real-time hand tracking** using MediaPipe
